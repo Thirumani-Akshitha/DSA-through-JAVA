@@ -1,5 +1,5 @@
 /*
-📝 Problem: 347. Top K Frequent Elements
+📝 LeetCode_Problem: 347. Top K Frequent Elements
 
 📄 Description:
 Given an integer array `nums` and an integer `k`, return the `k` most frequent elements.
@@ -29,7 +29,7 @@ Output: [1]
 
 import java.util.*;
 
-public class TopKFrequentElementsHashMap {
+public class LC_347_TopKFrequentElementsHashMap {
     public int[] topKFrequent(int[] nums, int k) {
         // Step 1: Build frequency map
         HashMap<Integer, Integer> freq = new HashMap<>();
