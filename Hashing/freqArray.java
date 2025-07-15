@@ -1,4 +1,3 @@
-package Hashing;
 
 //# Day 7 - Frequency of an Element in Array
 
@@ -14,13 +13,13 @@ package Hashing;
 
 //## ✅ Sample Output:
 //2
----
 
-## 🔍 Approach:
-- Use a loop to count occurrences of the target.
-- For large input ranges, use a `HashMap` instead of array-based frequency counting.
 
-## 📌 Java Code:
+// 🔍 Approach:
+//- Use a loop to count occurrences of the target.
+//- For large input ranges, use a `HashMap` instead of array-based frequency counting.
+
+// 📌 Java Code:
 
 import java.util.*;
 
