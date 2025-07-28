@@ -1,4 +1,4 @@
-package Sorting's;
+package Sorting;
 
 /*
 LeetCode 75. Sort Colors
