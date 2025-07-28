@@ -1,5 +1,5 @@
 
-//# Day 7 - Frequency of an Element in Array
+//# Day 10 - Frequency of an Element in Array
 
 //🧠 Problem:
 //Given an array of integers and a target integer x, determine how many times x appears in the array.
