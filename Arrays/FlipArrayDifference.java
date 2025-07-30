@@ -1,4 +1,4 @@
-package Arrays;
+
 
 // Question: For each element (0 to 9), compute flipped value (9 - a[i]) 
 // and print absolute difference of sum(original) and sum(flipped)

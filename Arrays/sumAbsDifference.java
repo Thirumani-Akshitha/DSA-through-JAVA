@@ -1,4 +1,4 @@
-package Arrays;
+
 
 // Question: Compute the sum of absolute differences between adjacent elements in the array
 // Sample Input: 3 → 1 3 5
